@@ -1,3 +1,3 @@
 # IGNITE Tech Explore
 language = "python3"
-run = "python app_development/my_earth_mars_app.py"
+run = "python python_activities/1_intro_to_python/2_save_run_demo.py"
